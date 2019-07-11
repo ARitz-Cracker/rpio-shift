@@ -1,6 +1,6 @@
 {
 	"name": "rpio-shift",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Because I ran out of GPIO output pins",
 	"main": "index.js",
 	"scripts": {},
@@ -17,5 +17,6 @@
 	  "url": "https://github.com/ARitz-Cracker/rpio-shift/issues"
 	},
 	"homepage": "https://github.com/ARitz-Cracker/rpio-shift#readme",
-	"devDependencies": {}
+	"devDependencies": {},
+	"dependencies": {"rpio":"^1.0.13"}
 }
