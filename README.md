@@ -7,6 +7,7 @@ const {ShiftRegister} = require("rpio-shift");
 
 // To control a shift register from the pi itself
 const sr = new ShiftRegister({
+	// pins: [data, clk, outputLatch]
 	pins: [11, 12, 13]
 })
 
