@@ -1,6 +1,6 @@
 {
 	"name": "rpio-shift",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"description": "Because I ran out of GPIO output pins",
 	"main": "index.js",
 	"scripts": {},
